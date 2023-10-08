@@ -10,21 +10,21 @@ const chalk = require('chalk')
 global.lol = '' // https://api.lolhuman.xyz
 global.xzn = '' // https://xnz.wtf
 /* ~~~~~~~~~ SETTINGS OWNER ~~~~~~~~~ */
-global.numberowner = '6289513081052' // Owner Utama
-global.owner = ['6289513081052', '6283838530788'] // Owner Lainnya
-global.namaowner = 'Arxzy お-ぎ' // Nama Owner
-global.premium = ["6289513081052"] // Premium User
-global.nobot = '6289513081052'
+global.numberowner = '51902679067' // Owner Utama
+global.owner = ['51902679067'] // Owner Lainnya
+global.namaowner = 'SysSolutions' // Nama Owner
+global.premium = ["51902679067"] // Premium User
+global.nobot = '51902679067'
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
-global.namabot = 'Arxzy-MD' // NickBot
+global.namabot = 'SysSolutions-MD' // NickBot
 global.typemenu = 'v2' // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = 'v1' // 'v1' > 'v2'
 global.autoread = false // ReadChat
-global.autobio = false // AutoBio
+global.autobio = true // AutoBio
 global.autoblok212 = true // AutoBlock Nomer +212
 global.onlyindo = false  // AutoBlock Selain Nomer Indo
-global.packname = 'Created By' // Watermark Sticker
-global.author = 'Arxzy ダ' // Watermark Sticker
+global.packname = 'Created By SysSolutions' // Watermark Sticker
+global.author = 'SYSSOLUTIONS' // Watermark Sticker
 /* ~~~~~~~~~ MESSAGES ~~~~~~~~~ */
 global.mess = {
     done: 'Done ✅',
