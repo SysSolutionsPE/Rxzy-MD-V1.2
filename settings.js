@@ -17,7 +17,7 @@ global.premium = ["51902679067"] // Premium User
 global.nobot = '51902679067'
 /* ~~~~~~~~~ SETTINGS BOT ~~~~~~~~~ */
 global.namabot = 'SysSolutions-MD' // NickBot
-global.typemenu = 'v2' // 'v1' > 'v2' > 'v3' > 'v4'
+global.typemenu = 'v4' // 'v1' > 'v2' > 'v3' > 'v4'
 global.typereply = 'v1' // 'v1' > 'v2'
 global.autoread = false // ReadChat
 global.autobio = true // AutoBio
@@ -41,7 +41,7 @@ global.mess = {
 global.thumb = fs.readFileSync('./media/quoted.jpg')
 global.menu = fs.readFileSync('./media/menu.jpg')
 /* ~~~~~~~~~ EDITS LINK ~~~~~~~~~ */
-global.link = 'https://chat.whatsapp.com/LfBvDxQujrLHihSRI6TCIZ'
+global.link = 'https://whatsapp.com/channel/0029Va6cqdDHQbS1VZH2VS1e'
 /* ~~~~~~~~~ END SYSTEM ~~~~~~~~~ */
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
